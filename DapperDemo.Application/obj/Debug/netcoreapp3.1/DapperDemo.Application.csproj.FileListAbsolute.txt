@@ -1,0 +1,13 @@
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/bin/Debug/netcoreapp3.1/DapperDemo.Application.deps.json
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/bin/Debug/netcoreapp3.1/DapperDemo.Application.dll
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/bin/Debug/netcoreapp3.1/DapperDemo.Application.pdb
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/bin/Debug/netcoreapp3.1/DapperDemo.Core.dll
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/bin/Debug/netcoreapp3.1/DapperDemo.Core.pdb
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/obj/Debug/netcoreapp3.1/DapperDemo.Application.csproj.AssemblyReference.cache
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/obj/Debug/netcoreapp3.1/DapperDemo.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/obj/Debug/netcoreapp3.1/DapperDemo.Application.AssemblyInfoInputs.cache
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/obj/Debug/netcoreapp3.1/DapperDemo.Application.AssemblyInfo.cs
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/obj/Debug/netcoreapp3.1/DapperDemo.Application.csproj.CoreCompileInputs.cache
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/obj/Debug/netcoreapp3.1/DapperDemo.Application.csproj.CopyComplete
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/obj/Debug/netcoreapp3.1/DapperDemo.Application.dll
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/obj/Debug/netcoreapp3.1/DapperDemo.Application.pdb

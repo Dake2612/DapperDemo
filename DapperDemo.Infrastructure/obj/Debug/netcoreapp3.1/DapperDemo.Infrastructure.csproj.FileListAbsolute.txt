@@ -1,0 +1,15 @@
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/bin/Debug/netcoreapp3.1/DapperDemo.Infrastructure.deps.json
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/bin/Debug/netcoreapp3.1/DapperDemo.Infrastructure.dll
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/bin/Debug/netcoreapp3.1/DapperDemo.Infrastructure.pdb
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/bin/Debug/netcoreapp3.1/DapperDemo.Application.dll
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/bin/Debug/netcoreapp3.1/DapperDemo.Core.dll
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/bin/Debug/netcoreapp3.1/DapperDemo.Application.pdb
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/bin/Debug/netcoreapp3.1/DapperDemo.Core.pdb
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/obj/Debug/netcoreapp3.1/DapperDemo.Infrastructure.csproj.AssemblyReference.cache
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/obj/Debug/netcoreapp3.1/DapperDemo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/obj/Debug/netcoreapp3.1/DapperDemo.Infrastructure.AssemblyInfoInputs.cache
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/obj/Debug/netcoreapp3.1/DapperDemo.Infrastructure.AssemblyInfo.cs
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/obj/Debug/netcoreapp3.1/DapperDemo.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/obj/Debug/netcoreapp3.1/DapperDemo.Infrastructure.csproj.CopyComplete
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/obj/Debug/netcoreapp3.1/DapperDemo.Infrastructure.dll
+/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/obj/Debug/netcoreapp3.1/DapperDemo.Infrastructure.pdb

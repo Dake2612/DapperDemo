@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "kYKApNnPTxyjOPVkg1whuxiPTgZwiYydaVv7rT6TyxCtCQq73/J3y00Enrf6djacJB5ifaI0L/GUEkRpz4fu+w==",
+  "success": true,
+  "projectFilePath": "/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Core/DapperDemo.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/dake/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/dake/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

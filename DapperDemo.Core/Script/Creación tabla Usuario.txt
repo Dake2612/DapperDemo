@@ -1,0 +1,10 @@
+CREATE TABLE Usuario  
+(  
+    id INT PRIMARY KEY IDENTITY (1, 1)
+    ,UserEmail VARCHAR(255)  
+    ,UserPassword VARCHAR(255)  
+    ,UserName VARCHAR(255)
+    ,UserLastName VARCHAR(255)
+    ,UserDNI VARCHAR(255)
+    ,UserAge int
+);

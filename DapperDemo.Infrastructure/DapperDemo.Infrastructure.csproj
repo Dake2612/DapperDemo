@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DapperDemo.Application\DapperDemo.Application.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Dapper" />
+    <None Remove="System.Data.SqlClient" />
+    <None Remove="Microsoft.Extensions.Configuration" />
+    <None Remove="Repositories\" />
+    <None Remove="Microsoft.Extensions.DependencyInjection" />
+    <None Remove="Swashbuckle.AspNetCore" />
+    <None Remove="Swashbuckle.AspNetCore.Swagger" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.5" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="6.4.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Repositories\" />
+  </ItemGroup>
+</Project>

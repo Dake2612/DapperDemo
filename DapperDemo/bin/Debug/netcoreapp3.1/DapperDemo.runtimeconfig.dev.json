@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/dake/.dotnet/store/|arch|/|tfm|",
+      "/Users/dake/.nuget/packages"
+    ]
+  }
+}

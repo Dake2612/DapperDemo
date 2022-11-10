@@ -1,0 +1,231 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/DapperDemo.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/DapperDemo.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/DapperDemo.Application.csproj",
+        "projectName": "DapperDemo.Application",
+        "projectPath": "/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/DapperDemo.Application.csproj",
+        "packagesPath": "/Users/dake/.nuget/packages/",
+        "outputPath": "/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dake/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Core/DapperDemo.Core.csproj": {
+                "projectPath": "/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Core/DapperDemo.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Core/DapperDemo.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Core/DapperDemo.Core.csproj",
+        "projectName": "DapperDemo.Core",
+        "projectPath": "/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Core/DapperDemo.Core.csproj",
+        "packagesPath": "/Users/dake/.nuget/packages/",
+        "outputPath": "/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dake/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/DapperDemo.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/DapperDemo.Infrastructure.csproj",
+        "projectName": "DapperDemo.Infrastructure",
+        "projectPath": "/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/DapperDemo.Infrastructure.csproj",
+        "packagesPath": "/Users/dake/.nuget/packages/",
+        "outputPath": "/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/dake/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/DapperDemo.Application.csproj": {
+                "projectPath": "/Users/dake/Documents/Visual Studio Projects/DapperDemo/DapperDemo.Application/DapperDemo.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[3.1.0, 3.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

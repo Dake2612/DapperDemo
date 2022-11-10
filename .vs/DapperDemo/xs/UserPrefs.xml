@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{C5E1F1C4-29B5-4F66-8FDF-0125D87939D8}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DapperDemo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DapperDemo/Properties/launchSettings.json">
+    <Files>
+      <File FileName="DapperDemo.Core/Entities/User.cs" />
+      <File FileName="DapperDemo.Application/Interfaces/IGenericRepository.cs" />
+      <File FileName="DapperDemo.Application/Interfaces/IUnitOfWork.cs" />
+      <File FileName="DapperDemo.Infrastructure/Repositories/UserRepository.cs" />
+      <File FileName="DapperDemo.Infrastructure/Repositories/UnitOfWork.cs" />
+      <File FileName="DapperDemo/Controllers/UsuarioController.cs" />
+      <File FileName="DapperDemo/Startup.cs" Line="34" Column="57" />
+      <File FileName="DapperDemo/Program.cs" Line="1" Column="1" />
+      <File FileName="DapperDemo/Properties/launchSettings.json" Line="23" Column="28" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DapperDemo" expanded="True">
+            <Node name="DapperDemo" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True">
+                <Node name="launchSettings.json" selected="True" />
+              </Node>
+            </Node>
+            <Node name="DapperDemo.Application" expanded="True">
+              <Node name="Interfaces" expanded="True" />
+            </Node>
+            <Node name="DapperDemo.Core" expanded="True">
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name="DapperDemo.Infrastructure" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
